@@ -1,0 +1,10 @@
+{
+  "name" : "Require Started",
+  "version" : "1.0.0",
+  "dependencies" : {
+      "jquery": null
+    , "backbone-amd":null
+    , "underscore-amd":null
+    , "requirejs":  null
+  }
+}
